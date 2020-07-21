@@ -2,7 +2,7 @@ Olá 👋🏾 👩🏾‍💻
 
 Sou a Giovana! Sou estudante de análise e Desenvolvimento de sistemas, curiosa de plantão que adora descobrir novas tecnologias.
 
- Girl: Medium Skin Tone She/her
+ 👩🏽 She/her
 
 🌱 Atualmente estou aprendendo Python, HTML, CSS, Serverless e Cloud Computing, 
 
