@@ -8,4 +8,4 @@ Sou a Giovana! Sou estudante de análise e Desenvolvimento de sistemas, curiosa 
 
 📫 Como chegar até mim:
 
-🌐 [LinkedIn](www.linkedin.com/in/giovana-mendes-dev)|  
+🌐 [LinkedIn](www.linkedin.com/in/giovana-mendes-dev)  
