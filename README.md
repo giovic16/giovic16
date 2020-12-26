@@ -4,7 +4,7 @@ Sou a Giovana! Sou estudante de análise e Desenvolvimento de sistemas, curiosa 
 
  👩🏽 She/her
 
-🌱 Atualmente estou aprendendo Python, HTML, CSS, Serverless e Cloud Computing, 
+🌱 Atualmente estou aprendendo Python, PySimpleGUI, HTML, CSS, e Scrum. 
 
 📫 Como chegar até mim:
 
