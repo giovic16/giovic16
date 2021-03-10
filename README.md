@@ -1,6 +1,6 @@
 Olá 👋🏾 👩🏾‍💻
 
-Sou a Giovana! Sou estudante de análise e Desenvolvimento de sistemas, curiosa de plantão que adora descobrir novas tecnologias.
+Sou a Giovana! Sou estudante de Análise e Desenvolvimento de Sistemas, curiosa de plantão que adora descobrir novas tecnologias.
 
  👩🏽 She/her
 
