@@ -1,6 +1,6 @@
 ## Olá, eu sou a Giovana!
 - 🧑🏽‍🎓  Cursando Análise e Desenvolvimento de Sistemas 
-- 💻  Dev Back e Front-end
+- 💻  Developer Fullstack
 <div>
   <a href="https://github.com/giovic16/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovic16&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
