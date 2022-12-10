@@ -1,5 +1,5 @@
 ## Olá, eu sou a Giovana!
-- 🧑🏽‍🎓  Cursando Análise e Desenvolvimento de Sistemas 
+- 🧑🏽‍🎓  Formada em Análise e Desenvolvimento de Sistemas 
 - 💻  Developer Fullstack
 <div align="center">
   <a href="https://github.com/giovic16">
