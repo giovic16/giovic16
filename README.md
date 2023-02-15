@@ -1,9 +1,11 @@
 ## Olá, eu sou a Giovana!
+- :books: Pós Graduanda em Desenvolvimento Web no IFSULDEMINAS
 - 🧑🏽‍🎓  Formada em Análise e Desenvolvimento de Sistemas 
 - 💻  Developer Fullstack
 <div align="center">
   <a href="https://github.com/giovic16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovic16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=giovic16&theme=dark&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovic16&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
