@@ -2,7 +2,7 @@
 - :books: Pós Graduanda em Desenvolvimento Web no IFSULDEMINAS
 - 🧑🏽‍🎓  Formada em Análise e Desenvolvimento de Sistemas 
 - 💻  Developer Fullstack
-- 
+
 ![](https://github-readme-stats.vercel.app/api?username=giovic16&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=giovic16&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giovic16&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
