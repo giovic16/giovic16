@@ -1,5 +1,5 @@
 ## Olá, eu sou a Giovana!
-- :books: Pós Graduanda em Desenvolvimento Web no IFSULDEMINAS
+- :books: Pós Graduada em Desenvolvimento Web no IFSULDEMINAS
 - 🧑🏽‍🎓  Formada em Análise e Desenvolvimento de Sistemas 
 - 💻  Developer Fullstack
 
